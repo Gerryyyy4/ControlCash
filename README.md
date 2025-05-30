@@ -1,2 +1,2 @@
 # ControlCash
-ControlCash es una app para gestionar tus finanzas personales. Registra ingresos y gastos con categorías, consulta tu saldo en tiempo real y visualiza gráficos claros de tus movimientos
+ControlCash is an app to manage your personal finances. Record income and expenses with categories, check your balance in real time and view clear graphs of your movements.
