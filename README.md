@@ -54,7 +54,7 @@ Agrega tus capturas en una carpeta como `docs/screenshots/` y reemplaza los plac
 
 | Login | Inicio | Reportes | Market Exchange |
 |---|---|---|---|
-| ![Login](docs/screenshots/login.png) | ![Home](docs/screenshots/home.png) | ![Reportes](docs/screenshots/reportes.png) | ![Market Exchange](docs/screenshots/market.png) |
+| ![Login](docs/screenshots/login.jpeg) | ![Home](docs/screenshots/home.jpeg) | ![Reportes](docs/screenshots/reportes.jpeg) | ![Market Exchange](docs/screenshots/market.jpeg) |
 
 ---
 
